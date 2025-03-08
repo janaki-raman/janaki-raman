@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Back End Developemnt**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **janakiraman01.m@gmail.com**
 
