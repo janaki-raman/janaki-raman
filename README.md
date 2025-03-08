@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **janakiraman01.m@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17pfD7_77MUEMJNRY3vIXnGTiUIoCSpLA/view](view my resume)
+- 📄 Know about my experiences [view my resume](https://drive.google.com/file/d/17pfD7_77MUEMJNRY3vIXnGTiUIoCSpLA/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
